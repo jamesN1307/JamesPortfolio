@@ -10,24 +10,14 @@
 
 * Updated LinkedIn profile
 
-## Grading
+#Languages
+Here is a list of the languages:
 
-| Requirement      | Weight |
-| ---------------- | ------ |
-| Portfolio        | 40%    |
-| GitHub Profile   | 40%    |
-| Resume           | 10%    |
-| LinkedIn Profile | 10%    |
+HTML
+CSS
+Javascript
+bootstrap
 
-## Instructions
-
-1. [Updated Portfolio](#updated-portfolio)
-
-2. [Updated GitHub Profile](#updated-github-profile)
-
-3. [Updated Resume](#updated-resume)
-
-4. [Updated LinkedIn](#updated-linkedin)
 <img width="1432" alt="Screen Shot 2022-04-29 at 11 12 17 PM" src="https://user-images.githubusercontent.com/97413286/166094100-3bfb5859-95d6-441d-9376-1054dc5dea12.png">
 
 <img width="1438" alt="Screen Shot 2022-04-18 at 10 11 06 PM" src="https://user-images.githubusercontent.com/97413286/163925239-1972093b-5d9f-40bb-af4c-c09888fa5fa3.png">
@@ -40,4 +30,14 @@
 https://youtu.be/ix73tg13E7k ---- DEMO LINK
 
 URl: https://jamesn1307.github.io/JamesPortfolio/
+
 GitHUB link https://github.com/jamesN1307/JamesPortfolio
+
+MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+License: MIT
