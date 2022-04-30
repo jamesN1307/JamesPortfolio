@@ -37,6 +37,7 @@ GitHUB link https://github.com/jamesN1307/JamesPortfolio
 ## Credits
  
 Lead Developer - James Nguyen
+
 Mentor - Darren Lee
 
 ## License
