@@ -10,7 +10,8 @@
 
 * Updated LinkedIn profile
 
-#Languages
+# Languages
+
 Here is a list of the languages:
 
 HTML
@@ -32,6 +33,11 @@ https://youtu.be/ix73tg13E7k ---- DEMO LINK
 URl: https://jamesn1307.github.io/JamesPortfolio/
 
 GitHUB link https://github.com/jamesN1307/JamesPortfolio
+
+## Credits
+ 
+Lead Developer - James Nguyen
+Mentor - Darren Lee
 
 ## License
  
